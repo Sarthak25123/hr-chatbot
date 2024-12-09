@@ -1,0 +1,50 @@
+{
+    "intents": [
+        {
+	    "tag":"greeting",
+            "patterns": ["hello", "hi", "hey", "howdy", "greetings", "good morning", "good evening", "what's up"],
+            "response": "Hello! How can I assist you today?"
+        },
+        {
+	    "tag":"thanks",
+            "patterns": ["thank you", "thanks", "much appreciated", "thanks a lot", "cheers"],
+            "response": "You're welcome! Let me know if there's anything else."
+        },
+        {
+	    "tag":"goodbye",
+            "patterns": ["bye", "goodbye", "see you later", "take care", "catch you later"],
+            "response": "Goodbye! Have a great day!"
+        },
+	{
+    "tag": "employee_wellness",
+    "patterns": ["I'm stressed", "I feel overwhelmed", "I'm not feeling well", "work is tough"],
+    "response": "I'm here to help. Remember, you can always contact HR for wellness programs or talk to a manager about flexible arrangements."
+},
+{
+    "tag": "employee_achievement",
+    "patterns": ["I got a promotion", "I achieved my target", "I did well today"],
+    "response": "Congratulations on your achievement! Keep up the great work. Is there anything else I can assist with?"
+},
+{
+            "tag": "leave",
+            "patterns": ["I want to apply for leave", "how do I take leave?", "leave application"],
+            "response": "Sure! Let me help you process your leave request."
+        },
+{
+    "tag": "feedback",
+    "patterns": ["I want to give feedback", "Submit feedback", "Provide feedback"],
+    "response": "What feedback would you like to provide?"
+},
+{
+            "tag": "quiz",
+            "patterns": ["Start a quiz", "Give me a quiz", "I want to take a quiz", "policy quiz"],
+            "response": "Let's start the quiz!"
+        },
+        {
+            "tag": "employee_directory",
+            "patterns": ["Find contact", "employee info", "search employee"],
+            "response": "Let me look that up for you."
+        }
+
+    ]
+}

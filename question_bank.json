@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the maximum number of casual leaves allowed in a year?",
+            "options": ["10", "15", "20"],
+            "answer": "15"
+        },
+        {
+            "question": "What is the official notice period for resignations?",
+            "options": ["1 week", "2 weeks", "1 month"],
+            "answer": "1 month"
+        },
+        {
+            "question": "Which of the following is covered under the health insurance policy?",
+            "options": ["Dental care", "Vision care", "Both", "None"],
+            "answer": "Both"
+        },
+        {
+            "question": "How many days in advance should you submit a leave application?",
+            "options": ["1 day", "3 days", "7 days"],
+            "answer": "3 days"
+        },
+        {
+            "question": "When is the annual performance review typically conducted?",
+            "options": ["January", "June", "December"],
+            "answer": "December"
+        },
+        {
+            "question": "What is the penalty for late attendance?",
+            "options": ["Salary deduction", "Verbal warning", "Depends on HR policy"],
+            "answer": "Depends on HR policy"
+        },
+        {
+            "question": "What is the maximum duration of maternity leave?",
+            "options": ["12 weeks", "16 weeks", "26 weeks"],
+            "answer": "26 weeks"
+        },
+        {
+            "question": "What is the maximum limit for tax-free meal vouchers?",
+            "options": ["1000 INR", "2000 INR", "2500 INR"],
+            "answer": "2500 INR"
+        },
+        {
+            "question": "Are remote work arrangements allowed?",
+            "options": ["Yes", "No", "Depends on the role"],
+            "answer": "Depends on the role"
+        },
+        {
+            "question": "Which department should you contact for technical issues?",
+            "options": ["HR", "IT Support", "Facilities"],
+            "answer": "IT Support"
+        }
+    ]
+}
